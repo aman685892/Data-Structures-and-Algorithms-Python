@@ -1,4 +1,4 @@
- Data-Structures-and-Algorithms-Python  
+ 🐍Data-Structures-and-Algorithms-Python🐍
 
 My DSA learning journey in Python – arrays, linked lists, stacks, queues, trees, and more...  
 
